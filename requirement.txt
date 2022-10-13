@@ -1,0 +1,10 @@
+flask
+numpy
+opencv-python
+pyodbc
+scikit-image
+cmake
+dlib
+face_recognition
+pytesseract
+wfastcgi
